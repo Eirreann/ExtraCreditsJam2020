@@ -31,7 +31,7 @@ I also built the main menu with its premise screen (`Assets/Main/Scenes/00_MainM
 
 ## A note on the code
 
-This is three-day jam code, written in August 2020, before I began working professionally as a Unity developer. It was also my first team project using git. For more recent examples of my work, see my GMTK Game Jam repos: [2024](https://github.com/Eirreann/GMTK_GameJam_2024), [2025](https://github.com/Eirreann/GMTK_GameJam_2025), and [2026](https://github.com/Eirreann/GMTK_GameJam_2026).
+This is three-day jam code, written in August 2020, before I began working professionally as a Unity developer. For more recent examples of my work, see my GMTK Game Jam repos: [2024](https://github.com/Eirreann/GMTK_GameJam_2024), [2025](https://github.com/Eirreann/GMTK_GameJam_2025), and [2026](https://github.com/Eirreann/GMTK_GameJam_2026).
 
 ## Team
 
